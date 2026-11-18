@@ -1,0 +1,26 @@
+{
+    "Name": "Detecting Concussion with Tensor-valued Diffusion Encoding",
+    "BIDSVersion": "1.10.0",
+    "License": "CC0",
+    "Authors": [
+        "Elizabeth J. Rizor",
+        "Neil M. Dundon",
+        "Margaret Hayes",
+        "Kiana Sabugo",
+        "Scott T. Grafton"
+    ],
+    "HowToAcknowledge": "Please cite the following:\n\nRizor, E.J., Dundon, N.M., Hayes, M., Sabugo, K., & Grafton, S. (2026). Characterizing white matter microstructure in acute concussion with tensor-valued diffusion encoding. _Imaging Neuroscience_.\n\nRizor, E. J. (2025). Mapping the human brain with multidimensional diffusion and multi-echo imaging to advance clinical insights (Order No. 31768051). Available from Dissertations & Theses @ University of California; ProQuest Dissertations & Theses A&I; ProQuest Dissertations & Theses Global. (3199000581). Retrieved from https://www.proquest.com/dissertations-theses/mapping-human-brain-with-multidimensional/docview/3199000581/se-2\n\n",
+    "Funding": [
+        "The research was supported by the Institute for Collaborative Biotechnologies under Cooperative Agreement W911NF-19-2-0026 and contract W911NF-19-D-0001 from the Army Research Office.",
+        "The content of the information does not necessarily reflect the position or the policy of the Government and no official endorsement should be inferred."
+    ],
+    "EthicsApprovals": [
+        "UC Santa Barbara Human Subjects Committee "
+    ],
+    "ReferencesAndLinks": [
+        "https://www.proquest.com/docview/3199000581?sourcetype=Dissertations%20&%20Theses",
+        "Study code: https://github.com/ejrise/tve-con"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006445.v1.0.1",
+    "Acknowledgements": "The authors thank Jan Martin and Frederik Bernd Lund at the Institute of Radiology, University Hospital Erlangen, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Erlangen, Germany for providing code for the tensor-valued encoding waveforms. We would also like to thank Mario Mendoza at UC Santa Barbara’s Brain Imaging Center for MRI data collection and participant recruitment assistance. "
+}
